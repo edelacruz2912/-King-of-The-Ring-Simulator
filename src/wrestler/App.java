@@ -1,4 +1,4 @@
-package fighter;
+package wrestler;
 
 public class App {
 
@@ -10,7 +10,7 @@ public class App {
 		
 		//testing figherView
 		
-		FigtherView fview = new FigtherView();
+		
 
 	}
 
