@@ -1,5 +1,11 @@
 import java.awt.Image;
 
+//The model performs all the calculations needed
+// and that is it. It doesnt know the view
+// exists
+
+
+
 public class Wrestler {
 	
 	private String figtherName = null;
